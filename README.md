@@ -6,6 +6,6 @@ And I work as an IT assistant (HelpDesk) at Valmet Tissue Converting.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, javascript, java, springboot,postgres, mysql,git," />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,springboot,postgres,mysql,git," />
   </a>
 </p>
