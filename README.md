@@ -5,6 +5,6 @@ I am a Software Engineering student at the University of the Joinville Region (U
 And I work as an IT assistant (HelpDesk) at Valmet Tissue Converting.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,spring,postgres,mysql,git," />
+    <img src="https://skillicons.dev/icons?i=javascript,c#,.net,java,spring,postgres" />
   </a>
 </p>
