@@ -8,5 +8,3 @@ Languages & frameworks: C#, .NET Framework, .NET 8, Entity Framework, AutoMapper
 Databases: SQL Server, PostgreSQL, MongoDB
 Cloud & infra: AWS (Lambda), Docker
 Practices: DDD, CQRS
-🌱 Currently learning
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=go,python" /> </a> </p>
